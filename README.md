@@ -7,4 +7,4 @@
 - 🙋‍♂️ An aspiring data scientist passionate about creating business value through data-driven approaches.
 - 📚 Professional experience in Prediction, Classification, and Agent.
 - ⚒️ Deep understanding of Machine Learning, RAG, and Language Models.
-- 📮 You can reach me at qianyufan8[at]outlook[dot]com.
+- 📮 You can reach me at qianyufan[at]hsph[dot]harvard[dot]edu.
